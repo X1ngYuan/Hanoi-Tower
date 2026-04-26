@@ -1,0 +1,11 @@
+# Visual Studio 生成文件
+Debug/
+Release/
+.vs/
+*.user
+*.suo
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
